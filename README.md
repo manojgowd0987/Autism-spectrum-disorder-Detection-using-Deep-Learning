@@ -1,1 +1,1 @@
-utism spectrum disorder Detection using Deep Learning
+Autism spectrum disorder Detection using Deep Learning
